@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/raxim4uk/Projects/new/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/new.dir/main.cpp.o -c /home/raxim4uk/Projects/new/main.cpp",
+  "file": "/home/raxim4uk/Projects/new/main.cpp",
+  "output": "CMakeFiles/new.dir/main.cpp.o"
+}
+]

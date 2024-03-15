@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-g++"
+	BuildStamp="20240315-1936-Experimental"
+	Name="raxim4uk-vivo"
+	Generator="ctest-3.28.3"
+	CompilerName="/usr/bin/g++"
+	CompilerVersion="13.2.1"
+	OSName="Linux"
+	Hostname="raxim4uk-vivo"
+	OSRelease="6.6.19-1-MANJARO"
+	OSVersion="#1 SMP PREEMPT_DYNAMIC Fri Mar  1 18:16:16 UTC 2024"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="25"
+	ModelID="80"
+	ProcessorCacheSize="512"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="0"
+	TotalPhysicalMemory="15393"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2778.52"
+	>
+	<Testing>
+		<StartDateTime>Mar 15 22:36 MSK</StartDateTime>
+		<StartTestTime>1710531374</StartTestTime>
+		<TestList/>
+		<EndDateTime>Mar 15 22:36 MSK</EndDateTime>
+		<EndTestTime>1710531374</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
